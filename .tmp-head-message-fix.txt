@@ -1,0 +1,1 @@
+Temporary file. It is removed in the very next commit; it exists only so the HEAD commit can carry the required entry message without changing any entry file.
